@@ -51,3 +51,4 @@ Please email [@ljharb](https://github.com/ljharb) or see https://tidelift.com/se
 [codecov-url]: https://app.codecov.io/gh/nvm-sh/nvmrc/
 [actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/nvm-sh/nvmrc
 [actions-url]: https://github.com/nvm-sh/nvmrc/actions
+This file has been edited by JulieB-01
